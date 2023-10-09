@@ -1,0 +1,7 @@
+C:\Users\Миша\Projects\ProjectC\piano\PianoC\PianoC\bin\Debug\PianoC.exe.config
+C:\Users\Миша\Projects\ProjectC\piano\PianoC\PianoC\bin\Debug\PianoC.exe
+C:\Users\Миша\Projects\ProjectC\piano\PianoC\PianoC\bin\Debug\PianoC.pdb
+C:\Users\Миша\Projects\ProjectC\piano\PianoC\PianoC\obj\Debug\PianoC.csproj.AssemblyReference.cache
+C:\Users\Миша\Projects\ProjectC\piano\PianoC\PianoC\obj\Debug\PianoC.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Projects\ProjectC\piano\PianoC\PianoC\obj\Debug\PianoC.exe
+C:\Users\Миша\Projects\ProjectC\piano\PianoC\PianoC\obj\Debug\PianoC.pdb
